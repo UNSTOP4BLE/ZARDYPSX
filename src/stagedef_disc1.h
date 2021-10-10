@@ -74,7 +74,7 @@
 		Back_Week2_New,
 		
 		//Song info
-		{FIXED_DEC(1,1),FIXED_DEC(27,10),FIXED_DEC(24,10)},
+		{FIXED_DEC(1,1),FIXED_DEC(28,10),FIXED_DEC(24,10)},
 		2, 1,
 		XA_Spookeez, 0,
 		
